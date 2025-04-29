@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border:solid 2px rgb(112, 112, 112);
+    background-color:dimgrey;
+    font-size: x-large;
+    }
