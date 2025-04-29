@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    padding: 2px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+section div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid 1px rgb(145, 145, 145);
+}
+
+img{
+    width:100px ;
+    height:150px ;
+    padding:10px ;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
